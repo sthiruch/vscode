@@ -49,6 +49,7 @@ const BUILD_TARGETS = [
 	// legacy: we use to ship only one alpine so it was put in the arch, but now we ship
 	// multiple alpine images and moved to a better model (alpine as the platform)
 	{ platform: 'linux', arch: 'alpine' },
+	{ platform: 'linux', arch: 's390x' },
 ];
 
 const serverResources = [
