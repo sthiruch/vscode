@@ -78,6 +78,7 @@
     "native-keymap": "3.3.0",
     "native-watchdog": "1.4.0",
     "node-pty": "0.11.0-beta11",
+    "playwright": "^1.26.0",
     "spdlog": "^0.13.0",
     "tas-client-umd": "0.1.6",
     "v8-inspect-profiler": "^0.1.0",
@@ -97,7 +98,6 @@
     "yazl": "^2.4.3"
   },
   "devDependencies": {
-    "7zip": "0.0.6",
     "@playwright/test": "1.24.2",
     "@types/cookie": "^0.3.3",
     "@types/copy-webpack-plugin": "^6.0.3",
@@ -127,6 +127,7 @@
     "@typescript-eslint/parser": "^5.10.0",
     "@vscode/telemetry-extractor": "^1.9.8",
     "@vscode/test-web": "^0.0.29",
+    "7zip": "0.0.6",
     "ansi-colors": "^3.2.3",
     "asar": "^3.0.3",
     "chromium-pickle-js": "^0.2.0",
